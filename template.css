@@ -1,0 +1,30 @@
+/* CSS for build an overall template for the website*/
+
+a:link {
+  color: white
+}
+
+a:visited {
+  color: purple
+}
+
+a:hover {
+  color: orange
+}
+
+a:active{
+  color: yellow
+}
+
+
+
+.top-nav .bottom-nav {
+  display: inline;
+  padding: 8px;
+  background-color: grey;
+  
+}
+
+.sidebar {
+  float: right;
+}
